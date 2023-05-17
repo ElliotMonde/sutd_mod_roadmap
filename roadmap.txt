@@ -132,8 +132,11 @@ Capstone Schedule = {
 
 
 ############## EPD Minor ###############
+Minimum of 5 modules listed on website:
+https://epd.sutd.edu.sg/education/undergraduate/minor-programmes/ep-minor/
+
 Check Pre-reqs
-3 EPD + 1 CSD
+3 EPD + 2 CSD
 
 T4={
     30.002 Circuits and Electronics
@@ -147,6 +150,7 @@ T7={
     30.202 Design of Intelligient Digital Integrated Circuits and Systems
     }
 
-1 CSD={
-    
+2 CSD={
+    50.003 Elements of Software Construction
+    50.021 Artificial Intelligence
     }
