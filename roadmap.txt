@@ -34,6 +34,8 @@ Y3S1 (T5) (May - Aug 2024):
     50.003 Elements of Software Construction
     50.005 Computer System Engineering ^
     Elective: 50.042 Foundations of Cybersecurity ^, ^^(?) //can I take both the pre-req and this in the same term?
+                                                        Yes, that is what everyone does. That's what I'm doing too.
+                                                        Also your repo is public.
     HASS
 
 Internship/Exchange/Vacation (Sep - Dec 2024)
