@@ -245,7 +245,7 @@ T7
 10.020 Data Driven World\
 10.023 Designing Energy Systems
 
-<details id="#m50001">
+<details id="m50001">
     <summary>
         <span>
             <b>
