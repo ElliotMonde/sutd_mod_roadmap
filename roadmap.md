@@ -149,7 +149,7 @@ HASS
 #### **Y4S1 (Capstone) (T7) (Sep - Dec 2025)**
 
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
-Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated\
+Elective: <a href="#m30007">30.202 Design of Intelligent Digital Integrated\
 Circuits and Systems</a>\
 Capstone\
 HASS
@@ -195,7 +195,7 @@ T6
 
 T7
 
-<a href="#m30202">30.202 Design of Intelligent Digital Integrated Circuits and Systems</a>
+<a href="#m30007">30.007 Engineering Design Innovation</a>
 
 ### **2 CSD**
 
@@ -506,19 +506,19 @@ T7
     </ul>
 </details>
 
-<details id="m30202">
+<details id="m30007">
     <summary>
         <span>
             <b>
-                30.202 Design of Intelligent Digital Integrated Circuits and Systems
+                30.007 Engineering Design Innovation
             </b>
-            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30202-design-of-intelligent-digital-integrated-circuits-and-systems/" target="_blank">
+            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30007-engineering-design-innovation/" target="_blank">
                 (link)</a>
         </span>
     </summary>
     <ul>
-        <li>Freshmore T1-T3 Math and Physics</li>
-        <li>30.002 Circuits & Electronics</li>
-        <li>30.101 Systems & Control</li>
+        <li>03.007 Design Thinking & Innovation</li>
+        <li>01.008 Physical World</li>
+        <li>01.020 Data Driven World</li>
     </ul>
 </details>
