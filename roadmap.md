@@ -185,22 +185,13 @@ HASS
 
 ### **3 EPD**
 
-T4
-
-<a href="#m30002">30.002 Circuits and Electronics</a>
-
-T6
-
-<a href="#m30106">30.106 Microelectronics Circuits and Devices</a>
-
-T7
-
-<a href="#m30007">30.007 Engineering Design Innovation</a>
+<a href="#m30002">30.002 Circuits and Electronics</a> (T4)\
+<a href="#m30106">30.106 Microelectronics Circuits and Devices</a> (T6)\
+<a href="#m30007">30.007 Engineering Design Innovation</a> (T4, T6)
 
 ### **2 CSD**
 
-<a href="#m50003">50.003 Elements of Software Construction</a>
-
+<a href="#m50003">50.003 Elements of Software Construction</a>\
 <a href="#m50021">50.021 Artificial Intelligience</a>
 
 ## **Modules Index**
