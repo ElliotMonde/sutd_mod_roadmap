@@ -87,7 +87,7 @@ Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
 
     2 Electives
 ><a href="#m50037">50.037 Blockchain Technology</a>\
->50.046 Cloud Computing and Internet of Things^
+><a href="#m50046">50.046 Cloud Computing & IOT</a>^
 
     Capstone
     HASS
@@ -154,7 +154,7 @@ HASS
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
 Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated\
 Circuits and Systems</a>\
->50.046 Cloud Computing and Internet of Things (T6/7)\
+><a href="#m50046">50.046 Cloud Computing & IOT</a> (T6/7)\
 >(? can i take Networks and this together in T5?)\
 Capstone\
 HASS
