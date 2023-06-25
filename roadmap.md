@@ -141,7 +141,7 @@ HASS
 
 >Elective: <a href="#m50046">50.046 Cloud Computing & IOT</a>\
 >Minor: <a href="#m30106">30.106 Microelectronics Circuits and Devices</a>\
->Elective\
+>Minor: <a href="#m30007">30.007 Engineering Design Innovation</a>
 HASS
 
 #### **Internship/Exchange/Vacation (May - Aug 2025**
@@ -149,8 +149,7 @@ HASS
 #### **Y4S1 (Capstone) (T7) (Sep - Dec 2025)**
 
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
-Elective: <a href="#m30007">30.202 Design of Intelligent Digital Integrated\
-Circuits and Systems</a>\
+Elective: \
 Capstone\
 HASS
 
