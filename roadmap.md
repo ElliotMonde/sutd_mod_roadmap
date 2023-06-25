@@ -13,7 +13,7 @@ _author: Elliot Phua_
 > [Engineering Product Minor](#epd-minor)\
 > [Modules Index](#modules-index)\
 > [Alternative: Cybersecurity Track](#cybersecurity-track)\
-> [Exchange & SUSEP]()
+> [Exchange & SUSEP](#exchange)
 ## **Freshmore**
 
 ---
