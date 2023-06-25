@@ -59,8 +59,7 @@ HASS
 ><a href="#m50003">50.003 Elements of Software Construction</a>\
 <a href="#m50005">50.005 Computer System Engineering</a> ^\
 Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
-(?) //can I take both the pre-req and this in the same term?
-    HASS
+HASS
 
 <br>
 
@@ -70,10 +69,9 @@ Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
 
 #### **Y3S2 (T6) (Jan - Apr 2025)**
 
-    3 Electives
-><a href="#m50041">50.041 Distributed Systems and Computing</a> *\
-><a href="#m50020">50.020 Network Security</a> ^^\
-><a href="#m50044">50.044 System Security</a> ^^
+>Elective: <a href="#m50041">50.041 Distributed Systems and Computing</a> *\
+>Elective: <a href="#m50020">50.020 Network Security</a> ^^\
+>Elective: <a href="#m50044">50.044 System Security</a> ^^
 
     HASS
 
@@ -87,10 +85,9 @@ Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
 
     2 Electives
 ><a href="#m50037">50.037 Blockchain Technology</a>\
-><a href="#m50046">50.046 Cloud Computing & IOT</a>^
-
-    Capstone
-    HASS
+><a href="#m50046">50.046 Cloud Computing & IOT</a>\
+Capstone\
+HASS
 
 #### **Y4S2 (Capstone) (T8) (Jan - Apr 2026)**
 
@@ -98,11 +95,12 @@ Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
 > <a href="#m50012">50.012 Networks</a>^ (?) Shouldn't I take this early on to build basic foundation?\
 > choose 1 more\
 ><a href="#m50053">50.053 Software Testing and Verification</a>,\
-<a href="#m50043">50.043 Database Systems</a>''*^,\
-<a href="#m50006">50.006 User Interface Design and Implementation</a>''
-
-    Capstone
-    HASS
+<a href="#m50043">50.043 Database Systems</a>\
+    <!--
+<a href="#m50006">50.006 User Interface Design and Implementation</a>\
+-->
+Capstone\
+HASS
 
 ### **Capstone Schedule**
 
@@ -122,14 +120,14 @@ Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
 
 ><a href="#m50001">50.001 Information Systems & Programming</a>\
 <a href="#m50002">50.002 Computation Structures</a>\
-<a href="#m50004">50.004 Algorithms</a> *\
+<a href="#m50004">50.004 Algorithms</a>\
 HASS
 
 #### **Y3S1 (T5) (May - Aug 2024)**
 
 ><a href="#m50003">50.003 Elements of Software Construction</a>\
 <a href="#m50005">50.005 Computer System Engineering</a>\
-Elective\
+Elective: <a href="#m50012">50.012 Networks</a>
 HASS
 
 <br>
@@ -142,8 +140,8 @@ HASS
 
 #### **Y3S2 (T6) (Jan - Apr 2025)**
 
-><a href="#m50012">50.012 Networks</a> (or  <a href="#m50046">50.046 Cloud Computing & IOT</a>)\
-><a href="#m30106">30.106 Microelectronics Circuits and Devices</a>\
+>Elective: <a href="#m50046">50.046 Cloud Computing & IOT</a>)\
+>Minor: <a href="#m30106">30.106 Microelectronics Circuits and Devices</a>\
 >Elective\
 HASS
 
@@ -154,8 +152,7 @@ HASS
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
 Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated\
 Circuits and Systems</a>\
-><a href="#m50046">50.046 Cloud Computing & IOT</a> (T6/7)\
->(? can i take Networks and this together in T5?)\
+>Elective:\
 Capstone\
 HASS
 
@@ -409,7 +406,7 @@ T7
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
-<ul>
+<ul>database
     <li><a href="#m50003">50.003 Elements of Software Construction</a></li>
 </ul>
 </details>
