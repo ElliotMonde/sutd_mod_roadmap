@@ -227,7 +227,7 @@ T7
             <b>
                 50.001 Information Systems & Programming
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50001-information-systems-programming">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50001-information-systems-programming" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -242,7 +242,7 @@ T7
             <b>
                 50.002 Computation Structures
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50002-computation-structures">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50002-computation-structures" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -257,7 +257,7 @@ T7
             <b>
                 50.004 Algorithms
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50004-algorithms">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50004-algorithms" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -272,7 +272,7 @@ T7
             <b>
                 50.003 Elements of Software Construction
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -287,7 +287,7 @@ T7
             <b>
                 50.005 Computer System Engineering
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -302,7 +302,7 @@ T7
             <b>
                 50.042 Foundations of Cybersecurity
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50042-foundations-cybersecurity">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50042-foundations-cybersecurity" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -317,7 +317,7 @@ T7
             <b>
                 50.041 Distributed Systems and Computing
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50041-distributed-systems-computing">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50041-distributed-systems-computing" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -332,7 +332,7 @@ T7
             <b>
                 50.020 Network Security
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50020-network-security">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50020-network-security" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -347,7 +347,7 @@ T7
             <b>
                 50.044 System Security
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50044-system-security">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50044-system-security" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -362,7 +362,7 @@ T7
             <b>
                 50.037 Blockchain Technology
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50037-blockchain-technology">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50037-blockchain-technology" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -385,7 +385,7 @@ T7
             <b>
                 50.012 Networks
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50012-networks/">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50012-networks/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -400,7 +400,7 @@ T7
             <b>
                 50.053 Software Testing and Verification
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50053-software-testing-and-verification">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50053-software-testing-and-verification" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -415,7 +415,7 @@ T7
             <b>
                 50.043 Database Systems
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50043-database-systems">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50043-database-systems" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -432,7 +432,7 @@ T7
             <b>
                 50.006 User Interface Design and Implementation
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50006-user-interface-design-and-implementation/">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50006-user-interface-design-and-implementation/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -447,7 +447,7 @@ T7
             <b>
                 50.046 Cloud Computing & IOT
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50046-cloud-computing-and-internet-of-things/">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50046-cloud-computing-and-internet-of-things/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -462,7 +462,7 @@ T7
             <b>
                 50.021 Artificial Intelligience
             </b>
-            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/">
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -481,7 +481,7 @@ T7
             <b>
                 30.002 Circuits and Electronics
             </b>
-            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30002-circuits-electronics/">
+            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30002-circuits-electronics/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -496,7 +496,7 @@ T7
             <b>
                 30.106 Microelectronics Circuits and Devices
             </b>
-            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30106-microelectronics-circuits-and-devices/">
+            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30106-microelectronics-circuits-and-devices/" target="_blank">
                 (link)</a>
         </span>
     </summary>
@@ -512,7 +512,7 @@ T7
             <b>
                 30.202 Design of Intelligent Digital Integrated Circuits and Systems
             </b>
-            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30202-design-of-intelligent-digital-integrated-circuits-and-systems/">
+            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30202-design-of-intelligent-digital-integrated-circuits-and-systems/" target="_blank">
                 (link)</a>
         </span>
     </summary>
