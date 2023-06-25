@@ -5,11 +5,11 @@ _author: Elliot Phua_
 ## **Index**
 
 >[Freshmore](#freshmore)\
-> [Cybersecurity Track](#cybersecurity-track)\
 > [IOT & Intelligent Systems Track](#iot--intelligient-systems-track)\
 > [Engineering Product Minor](#epd-minor)\
-> [Modules Index](#modules-index)
-
+> [Modules Index](#modules-index)\
+> [Alternative: Cybersecurity Track](#cybersecurity-track)\
+> [Exchange & SUSEP]()
 ## **Freshmore**
 
 ---
