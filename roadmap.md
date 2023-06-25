@@ -160,8 +160,9 @@ HASS
 ><a href="#m50021">50.021 Artificial Intelligience (T6/8)</a>\
 Capstone\
 HASS
+---
 
-### **Capstone Schedule**
+### **[Capstone Schedule](<https://www.sutd.edu.sg/Education/Unique-Academic-Structure/Capstone-Programme>)**
 
 * **Sep 2024 - Apr 2025**\
     Sourcing & Scoping of Capstone Projects,
@@ -173,6 +174,8 @@ HASS
     Start of Capstone,
 * **April 2026**\
     End of Capstone
+
+---
 
 ## **EPD Minor**
 
