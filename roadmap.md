@@ -91,7 +91,7 @@ HASS
 #### **Y4S2 (Capstone) (T8) (Jan - Apr 2026)**
 
     2 Electives
-> <a href="#m50012">50.012 Networks</a>^ (?) Shouldn't I take this early on to build basic foundation?\
+> <a href="#m50012">50.012 Networks</a>
 > choose 1 more\
 ><a href="#m50053">50.053 Software Testing and Verification</a>,\
 <a href="#m50043">50.043 Database Systems</a>\
@@ -139,9 +139,10 @@ HASS
 
 #### **Y3S2 (T6) (Jan - Apr 2025)**
 
->Elective: <a href="#m50046">50.046 Cloud Computing & IOT</a>\
+<!--<a href="#m50007">50.007 Machine Learning</a>\-->
+>Minor: <a href="m30002">30.002 Circuits & Electronics</a>\
 >Minor: <a href="#m30106">30.106 Microelectronics Circuits and Devices</a>\
->Minor: <a href="#m30007">30.007 Engineering Design Innovation</a>
+>Minor: <a href="#m30007">30.007 Engineering Design Innovation</a>\
 HASS
 
 #### **Internship/Exchange/Vacation (May - Aug 2025**
@@ -149,14 +150,14 @@ HASS
 #### **Y4S1 (Capstone) (T7) (Sep - Dec 2025)**
 
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
-Elective: \
+>Elective: <a href="#m50046">50.046 Cloud Computing & IOT</a>\
 Capstone\
 HASS
 
 #### **Y4S2 (Capstone) (T8) (Jan - Apr 2026)**
 
-><a href="#m50021">50.021 Artificial Intelligience</a> (T6/8)\
-Elective\
+>Co-Requisite: <a href="#m50007">50.007 Machine Learning (T6)* </a>\
+><a href="#m50021">50.021 Artificial Intelligience (T6/8)</a>\
 Capstone\
 HASS
 
@@ -446,6 +447,24 @@ HASS
 </ul>
 </details>
 
+<details id="m50007">
+    <summary>
+        <span>
+            <b>
+                50.007 Machine Learning (T6)
+            </b>
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50007-machine-learning" target="_blank">
+                (link)</a>
+        </span>
+        <p>*enquire if available in T8</p>
+    </summary>
+<ul>
+    <li><a href="#m50001">50.001 Information Systems & Programming</a></li>
+    <li><a href="#50004">50.004 Algorithms</a></li>
+    <li>Python/Java, dynamic programming, probability and optimisation</li>
+</ul>
+</details>
+
 <details id="m50021">
     <summary>
         <span>
@@ -457,9 +476,25 @@ HASS
         </span>
     </summary>
 <ul>
-    <li>50.007 Machine Learning</li>
+    <li><a href="#m50007">50.007 Machine Learning</a></li>
     <li>10.022 Modelling Uncertainty</li>
     <li>10.004 Computational Thinking for Design</li>
+</ul>
+</details>
+
+
+<details id="m50035">
+    <summary>
+        <span>
+            <b>
+                50.035 Computer Vision
+            </b>
+            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50035-computer-vision/" target="_blank">
+                (link)</a>
+        </span>
+    </summary>
+<ul>
+    <li><a href="#m50007">50.007 Machine Learning</a></li>
 </ul>
 </details>
 
@@ -469,11 +504,12 @@ HASS
     <summary>
         <span>
             <b>
-                30.002 Circuits and Electronics
+                30.002 Circuits and Electronics (T4)
             </b>
             <a href="https://epd.sutd.edu.sg/undergraduate-courses/30002-circuits-electronics/" target="_blank">
                 (link)</a>
         </span>
+                    <p>*enquire if available in T6</p>
     </summary>
     <ul>
         <li>Freshmore T1-T3 Math and Physics</li>
@@ -484,7 +520,7 @@ HASS
     <summary>
         <span>
             <b>
-                30.106 Microelectronics Circuits and Devices
+                30.106 Microelectronics Circuits and Devices (T6)
             </b>
             <a href="https://epd.sutd.edu.sg/undergraduate-courses/30106-microelectronics-circuits-and-devices/" target="_blank">
                 (link)</a>
@@ -492,7 +528,7 @@ HASS
     </summary>
     <ul>
         <li>Freshmore T1-T3 Math and Physics</li>
-        <li>30.002 Circuits & Electronics</li>
+        <li><a href="#30002">30.002 Circuits & Electronics</a></li>
     </ul>
 </details>
 
@@ -500,7 +536,7 @@ HASS
     <summary>
         <span>
             <b>
-                30.007 Engineering Design Innovation
+                30.007 Engineering Design Innovation (T4,6)
             </b>
             <a href="https://epd.sutd.edu.sg/undergraduate-courses/30007-engineering-design-innovation/" target="_blank">
                 (link)</a>
@@ -510,5 +546,20 @@ HASS
         <li>03.007 Design Thinking & Innovation</li>
         <li>01.008 Physical World</li>
         <li>01.020 Data Driven World</li>
+    </ul>
+</details>
+
+<details id="m30102">
+    <summary>
+        <span>
+            <b>
+                30.102 Electromagnetics & Applications (T5)
+            </b>
+            <a href="https://epd.sutd.edu.sg/undergraduate-courses/30102-electromagnetics-applications/" target="_blank">
+                (link)</a>
+        </span>
+    </summary>
+    <ul>
+        <li>Freshmore Physics & Maths</li>
     </ul>
 </details>
