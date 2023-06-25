@@ -1,4 +1,6 @@
-# Roadmap to ISTD
+# Roadmap
+
+_author: Elliot Phua_
 
 ## **Index**
 
@@ -47,10 +49,10 @@ ___
 
 #### **Y2S2 (CSD) (T4) (Jan - Apr 2024)**
 
-    50.001 Information Systems & Programming
-    50.002 Computation Structures
-    50.004 Algorithms *
-    HASS
+><a href="#m50001">50.001 Information Systems & Programming</a>\
+50.002 Computation Structures\
+50.004 Algorithms\
+HASS
 
 #### **Y3S1 (T5) (May - Aug 2024)**
 
@@ -117,7 +119,7 @@ ___
 
 #### **Y2S2 (CSD) (T4) (Jan - Apr 2024)**
 
-    50.001 Information Systems & Programming
+    <a href="#m50001">50.001 Information Systems & Programming</a>
     50.002 Computation Structures
     50.004 Algorithms *
     HASS
@@ -191,40 +193,15 @@ ___
 
 T4
 
-[30.002 Circuits and Electronics](https://epd.sutd.edu.sg/undergraduate-courses/30002-circuits-electronics/)
-<details>
-    <summary>
-        Pre-Requisites
-    </summary>
-    <ul>Freshmore T1-T3 Math and Physics</ul>
-</details>
-<br>
-
+[30.002 Circuits and Electronics]()
 
 T6
 
-[30.106 Microelectronics Circuits and Devices](https://epd.sutd.edu.sg/undergraduate-courses/30106-microelectronics-circuits-and-devices/)
-<details>
-<summary>
-    Pre-Requisites
-</summary>
-<ul>Freshmore T1-T3 Math and Physics</ul>
-<ul>30.002 Circuits & Electronics</ul>
-</details>
-<br>
+[30.106 Microelectronics Circuits and Devices]()
 
-T7\
-[30.202 Design of Intelligent Digital Integrated Circuits and Systems](https://epd.sutd.edu.sg/undergraduate-courses/30202-design-of-intelligent-digital-integrated-circuits-and-systems/)
+T7
 
-<details>
-    <summary>
-        Pre-Requisites
-    </summary>
-    <ul>Freshmore T1-T3 Math and Physics</ul>
-    <ul>30.002 Circuits & Electronics</ul>
-    <ul>30.101 Systems & Control</ul>
-</details>
-<br>
+[30.202 Design of Intelligent Digital Integrated Circuits and Systems]()
 
 ### **2 CSD**
 
@@ -234,7 +211,7 @@ T7\
     <summary>
         Pre-Requisites
     </summary>
-    <ul>50.001 Information Systems & Programming</ul>
+    <ul><a href="#m50001">50.001 Information Systems & Programming</a></ul>
 </details>
 <br>
 
@@ -268,16 +245,19 @@ T7\
 10.020 Data Driven World\
 10.023 Designing Energy Systems
 
-<details>
+<details id="#m50001">
     <summary>
         <span>
             <b>
-                50.001 Information Systems & Programming
+                <a href="#m50001">50.001 Information Systems & Programming</a>
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50001-information-systems-programming">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>10.014 Computational Thinking for Design</li>
+</ul>
 </details>
 
 <details>
@@ -286,10 +266,13 @@ T7\
             <b>
                 50.002 Computation Structures
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50002-computation-structures">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>10.014 Computational Thinking for Design</li>
+</ul>
 </details>
 
 <details>
@@ -298,10 +281,13 @@ T7\
             <b>
                 50.004 Algorithms
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50004-algorithms">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>10.014 Computational Thinking for Design</li>
+</ul>
 </details>
 
 <details>
@@ -310,10 +296,13 @@ T7\
             <b>
                 50.003 Elements of Software Construction
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li><a href="#m50001">50.001 Information Systems & Programming</a></li>
+</ul>
 </details>
 
 <details>
@@ -322,10 +311,13 @@ T7\
             <b>
                 50.005 Computer System Engineering
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.002 Computation Structures</li>
+</ul>
 </details>
 
 <details>
@@ -334,10 +326,13 @@ T7\
             <b>
                 50.042 Foundations of Cybersecurity
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50042-foundations-cybersecurity">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.005 Computer System Engineering</li>
+</ul>
 </details>
 
 <details>
@@ -346,10 +341,13 @@ T7\
             <b>
                 50.041 Distributed Systems and Computing
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50041-distributed-systems-computing">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.004 Algorithms</li>
+</ul>
 </details>
 
 <details>
@@ -358,10 +356,13 @@ T7\
             <b>
                 50.020 Network Security
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50020-network-security">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.042 Foundations of Cybersecurity</li>
+</ul>
 </details>
 
 <details>
@@ -370,10 +371,13 @@ T7\
             <b>
                 50.044 System Security
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50044-system-security">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.042 Foundations of Cybersecurity</li>
+</ul>
 </details>
 
 <details>
@@ -382,10 +386,21 @@ T7\
             <b>
                 50.037 Blockchain Technology
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50037-blockchain-technology">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.004 Algorithms</li>
+    <li>50.005 Computer System Engineering</li>
+    <li>Optional
+        <ul>
+            <li>50.012 Networks</li>
+            <li>50.020 Security</li>
+            <li>50.043 Database Systems</li>
+        </ul>
+    </li>
+</ul>
 </details>
 
 <details>
@@ -394,10 +409,13 @@ T7\
             <b>
                 50.012 Networks
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50012-networks/">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.005 Computer System Engineering</li>
+</ul>
 </details>
 
 <details>
@@ -406,10 +424,13 @@ T7\
             <b>
                 50.053 Software Testing and Verification
             </b>
-            <a href="https://istd.sutd.edu.sg/undergraduate/courses/50053-software-testing-and-verification">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50053-software-testing-and-verification">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>50.003 Elements of Software Construction</li>
+</ul>
 </details>
 
 <details>
@@ -418,10 +439,15 @@ T7\
             <b>
                 50.043 Database Systems
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50043-database-systems">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>10.014 Computational Thinking for Design</li>
+    <li>50.004 Algorithms</li>
+    <li>50.005 Computer System Engineering</li>
+</ul>
 </details>
 
 <details>
@@ -430,8 +456,93 @@ T7\
             <b>
                 50.006 User Interface Design and Implementation
             </b>
-            <a href="">
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50006-user-interface-design-and-implementation/">
                 <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
         </span>
     </summary>
+<ul>
+    <li>10.004 Computational Thinking for Design</li>
+</ul>
+</details>
+
+<details>
+    <summary>
+        <span>
+            <b>
+                50.046 Cloud Computing & IOT
+            </b>
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50046-cloud-computing-and-internet-of-things/">
+                <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
+        </span>
+    </summary>
+<ul>
+    <li>50.005 Computer System Engineering</li>
+</ul>
+</details>
+
+<details>
+    <summary>
+        <span>
+            <b>
+                50.021 Artificial Intelligience
+            </b>
+            <a target="_blank" href="https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/">
+                <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
+        </span>
+    </summary>
+<ul>
+    <li>50.007 Machine Learning</li>
+    <li>10.022 Modelling Uncertainty</li>
+    <li>10.004 Computational Thinking for Design</li>
+</ul>
+</details>
+
+<span>&nbsp;</span>
+
+<details>
+    <summary>
+        <span>
+            <b>
+                30.002 Circuits and Electronics
+            </b>
+            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30002-circuits-electronics/">
+                <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
+        </span>
+    </summary>
+    <ul>
+        <li>Freshmore T1-T3 Math and Physics</li>
+    </ul>
+</details>
+
+<details>
+    <summary>
+        <span>
+            <b>
+                30.106 Microelectronics Circuits and Devices
+            </b>
+            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30106-microelectronics-circuits-and-devices/">
+                <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
+        </span>
+    </summary>
+    <ul>
+        <li>Freshmore T1-T3 Math and Physics</li>
+        <li>30.002 Circuits & Electronics</li>
+    </ul>
+</details>
+
+<details>
+    <summary>
+        <span>
+            <b>
+                30.202 Design of Intelligent Digital Integrated Circuits and Systems
+            </b>
+            <a target="_blank" href="https://epd.sutd.edu.sg/undergraduate-courses/30202-design-of-intelligent-digital-integrated-circuits-and-systems/">
+                <svg xmlns="http://www.w3.org/2000/svg" height="0.75em" viewBox="0 0 512 512"fill="#ffffff"><path d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"/></svg></a>
+        </span>
+    </summary>
+    <ul>
+        <li>Freshmore T1-T3 Math and Physics</li>
+        <li>30.002 Circuits & Electronics</li>
+        <li>30.101 Systems & Control</li>
+    </ul>
 </details>
