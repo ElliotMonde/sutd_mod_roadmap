@@ -570,3 +570,137 @@ HASS
         April 2026 : End of Capstone
 
 <br>
+
+## **Exchange**
+
+---
+
+### **Universities**
+
+>[Hanyang University](#hanyang-university)\
+>[National Taiwan University](#national-taiwan-univerisity)\
+>[Yonsei University](#yonsei-univerisity)
+
+### **Hanyang University**
+
+<br>
+
+**Fall Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>Object Oriented Programming</td>
+        <td>EPD Mapping Elective</td>
+        <td>30.XXX</td>
+    </tr>
+    <tr>
+        <td>Microelectronic Circuits</td>
+        <td><a href="#m30106">Microelectronics Circuits & Devices</a></td>
+        <td>30.106</td>
+    </tr>
+    <tr>
+        <td>Introduction To Information System</td>
+        <td>ISTD Mapping Elective</td>
+        <td>50.XXX</td>
+    </tr>
+    <tr>
+        <td>Machine Learning Theory *</td>
+        <td><a href="#m50007">Machine Learning</a></td>
+        <td>50.007</td>
+    </tr>
+</table>
+<br>
+
+**Summer Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+
+---
+### **National Taiwan Univerisity**
+
+<br>
+
+**Fall Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+<br>
+
+**Summer Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+<br>
+
+---
+### **Yonsei Univerisity**
+
+<br>
+
+**Fall Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+<br>
+
+**Summer Semester**
+
+<table>
+    <tr>
+        <th>Host Uni Course Title</th>
+        <th>SUTD Course Title</th>
+        <th>SUTD Course Code</th>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>
+<br>
