@@ -71,9 +71,8 @@ HASS
 
 >Elective: <a href="#m50041">50.041 Distributed Systems and Computing</a> *\
 >Elective: <a href="#m50020">50.020 Network Security</a> ^^\
->Elective: <a href="#m50044">50.044 System Security</a> ^^
-
-    HASS
+>Elective: <a href="#m50044">50.044 System Security</a> ^^\
+HASS
 
 <br>
 
@@ -127,7 +126,7 @@ HASS
 
 ><a href="#m50003">50.003 Elements of Software Construction</a>\
 <a href="#m50005">50.005 Computer System Engineering</a>\
-Elective: <a href="#m50012">50.012 Networks</a>
+Elective: <a href="#m50012">50.012 Networks</a>\
 HASS
 
 <br>
@@ -152,7 +151,6 @@ HASS
 ><a href="#m50041">50.041 Distributed Systems and Computing</a>\
 Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated\
 Circuits and Systems</a>\
->Elective:\
 Capstone\
 HASS
 
