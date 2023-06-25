@@ -56,9 +56,10 @@ HASS
 
 #### **Y3S1 (T5) (May - Aug 2024)**
 
-    <a href="#m50003">50.003 Elements of Software Construction</a>
-    <a href="#m50005">50.005 Computer System Engineering</a> ^
-    Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^, ^^(?) //can I take both the pre-req and this in the same term?
+><a href="#m50003">50.003 Elements of Software Construction</a>\
+<a href="#m50005">50.005 Computer System Engineering</a> ^\
+Elective: <a href="#m50042">50.042 Foundations of Cybersecurity</a> ^\
+(?) //can I take both the pre-req and this in the same term?
     HASS
 
 <br>
@@ -94,11 +95,11 @@ HASS
 #### **Y4S2 (Capstone) (T8) (Jan - Apr 2026)**
 
     2 Electives
-> <a href="#m50012">50.012 Networks</a>^ (?) Shouldn't I take this early on to build basic foundation?
+> <a href="#m50012">50.012 Networks</a>^ (?) Shouldn't I take this early on to build basic foundation?\
 > choose 1 more\
->> <a href="#m50053">50.053 Software Testing and Verification</a>,\
->> <a href="#m50043">50.043 Database Systems</a>''*^,\
->> <a href="#m50006">50.006 User Interface Design and Implementation</a>''
+><a href="#m50053">50.053 Software Testing and Verification</a>,\
+<a href="#m50043">50.043 Database Systems</a>''*^,\
+<a href="#m50006">50.006 User Interface Design and Implementation</a>''
 
     Capstone
     HASS
@@ -119,17 +120,17 @@ HASS
 
 #### **Y2S2 (CSD) (T4) (Jan - Apr 2024)**
 
-    <a href="#m50001">50.001 Information Systems & Programming</a>
-    <a href="#m50002">50.002 Computation Structures</a>
-    <a href="#m50004">50.004 Algorithms</a> *
-    HASS
+><a href="#m50001">50.001 Information Systems & Programming</a>\
+<a href="#m50002">50.002 Computation Structures</a>\
+<a href="#m50004">50.004 Algorithms</a> *\
+HASS
 
 #### **Y3S1 (T5) (May - Aug 2024)**
 
-    <a href="#m50003">50.003 Elements of Software Construction</a>
-    <a href="#m50005">50.005 Computer System Engineering</a>
-    Elective
-    HASS
+><a href="#m50003">50.003 Elements of Software Construction</a>\
+<a href="#m50005">50.005 Computer System Engineering</a>\
+Elective\
+HASS
 
 <br>
 
@@ -141,31 +142,29 @@ HASS
 
 #### **Y3S2 (T6) (Jan - Apr 2025)**
 
-    <a href="#m50012">50.012 Networks</a> (or  <a href="#m50046">50.046 Cloud Computing & IOT</a>)
-    2 Electives
+><a href="#m50012">50.012 Networks</a> (or  <a href="#m50046">50.046 Cloud Computing & IOT</a>)\
 ><a href="#m30106">30.106 Microelectronics Circuits and Devices</a>\
->Elective
-
-    HASS
+>Elective\
+HASS
 
 #### **Internship/Exchange/Vacation (May - Aug 2025**
 
 #### **Y4S1 (Capstone) (T7) (Sep - Dec 2025)**
 
-    <a href="#m50041">50.041 Distributed Systems and Computing</a>
-    Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated Circuits and Systems</a> 
+><a href="#m50041">50.041 Distributed Systems and Computing</a>\
+Elective: <a href="#m30202">30.202 Design of Intelligent Digital Integrated\
+Circuits and Systems</a>\
 >50.046 Cloud Computing and Internet of Things (T6/7)\
->(? can i take Networks and this together in T5?)
-
-    Capstone
-    HASS
+>(? can i take Networks and this together in T5?)\
+Capstone\
+HASS
 
 #### **Y4S2 (Capstone) (T8) (Jan - Apr 2026)**
 
-    <a href="#m50021">50.021 Artificial Intelligience</a> (T6/8)
-    Elective
-    Capstone
-    HASS
+><a href="#m50021">50.021 Artificial Intelligience</a> (T6/8)\
+Elective\
+Capstone\
+HASS
 
 ### **Capstone Schedule**
 
@@ -193,39 +192,21 @@ HASS
 
 T4
 
-[<a href="#m30002">30.002 Circuits and Electronics</a>]()
+<a href="#m30002">30.002 Circuits and Electronics</a>
 
 T6
 
-[<a href="#m30106">30.106 Microelectronics Circuits and Devices</a>]()
+<a href="#m30106">30.106 Microelectronics Circuits and Devices</a>
 
 T7
 
-[<a href="#m30202">30.202 Design of Intelligent Digital Integrated Circuits and Systems</a>]()
+<a href="#m30202">30.202 Design of Intelligent Digital Integrated Circuits and Systems</a>
 
 ### **2 CSD**
 
-[<a href="#m50003">50.003 Elements of Software Construction</a>](https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction/)
+<a href="#m50003">50.003 Elements of Software Construction</a>
 
-<details>
-    <summary>
-        Pre-Requisites
-    </summary>
-    <ul><a href="#m50001">50.001 Information Systems & Programming</a></ul>
-</details>
-<br>
-
-[50.021 Artificial Intelligence](https://istd.sutd.edu.sg/undergraduate/courses/50021-artificial-intelligence/)
-
-<details>
-    <summary>
-        Pre-Requisites
-    </summary>
-    <ul>10.014 Computational Thinking & Design (T1)</ul>
-    <ul>10.022 Modelling Uncertainty (T3)</ul>
-    <ul>50.007 Machine Learning</ul>
-</details>
-<br>
+<a href="#m50021">50.021 Artificial Intelligience</a>
 
 ## **Modules Index**
 
