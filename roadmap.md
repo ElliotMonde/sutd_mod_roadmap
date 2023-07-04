@@ -20,16 +20,16 @@ _author: Elliot Phua_
 
 #### **Y1S1 (Freshmore) (Sep - Dec 2022)**
 
-    10.013 Modelling and Analysis
-    10.015 Physical World
-    10.014 Computational Thinking for Design
+>10.013 Modelling and Analysis\
+    10.015 Physical World\
+    10.014 Computational Thinking for Design\
     02.003 Soc Sci Understanding Behaviour, Culture and Society
 
 #### **Y1S2 (Jan - Apr 2023)**
 
-    10.018 Modelling Space and Systems
-    10.017 Technological World'
-    10.016 Science for a Sustainable World
+>10.018 Modelling Space and Systems\
+    10.017 Technological World\
+    10.016 Science for a Sustainable World\
     03.007 Design Thinking and Innovation
 
 <br>
@@ -40,9 +40,9 @@ _author: Elliot Phua_
 
 #### **Y2S1 (T3) (Sep - Dec 2023)**
 
-    10.022 Modelling Uncertainty
-    02.001 Global Humanities: Lit, Philo, and Ethics
-    10.020 Data Driven World
+>10.022 Modelling Uncertainty\
+    02.001 Global Humanities: Lit, Philo, and Ethics\
+    10.020 Data Driven World\
     10.023 Designing Energy Systems
 
 <br>
