@@ -12,7 +12,7 @@ _author: Elliot Phua_
 > [Computer Science Minor](#csd-minor)\
 > [Modules Index](#modules-index)\
 
-## <span id="#DAI-track">Design & Artificial Intelligence Track</span>
+## <span id="DAI-track">Design & Artificial Intelligence Track</span>
 
 #### **T4 (Jan - Apr 2024)** 
 
@@ -45,8 +45,8 @@ _author: Elliot Phua_
 
 <br>
 
-## <span id="#csd-minor">Computer Science Minor</span>
+## <span id="csd-minor">Computer Science Minor</span>
 
 <br>
 
-## <span id="#modules-index">Modules Index</span>
+## <span id="modules-index">Modules Index</span>
