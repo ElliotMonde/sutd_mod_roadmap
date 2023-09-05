@@ -62,6 +62,25 @@ _author: Elliot Phua_
 <br>
 
 ## <span id="csd-minor">Computer Science Minor</span>
+Minimum of 1 CS Core Module:
+    50.001 Information Systems and Programming
+    50.002 Computational Structure
+    50.003 Elements of Software Construction
+    **50.004 Algorithms (Core)**
+    50.005 Computer System Engineering
+
+Minimum of 2 Modules From Following List:
+    CSD Electives
+    01.116 AI For Healthcare
+    01.117 Brain-Inspired Computing and its Applications
+    60.007 Interaction Design for Cyber-Physical Artifacts
+
+Minimum of 2 Cross-Pillar Modules From Following List:
+    For DAI Students:
+    60.001 Applied Deep Learning
+    60.002 AI Applications in Design
+    **60.004 Service Design Studio (Core)**
+    **60.005 HCI and AI (Core)**
 
 <br>
 
@@ -86,3 +105,8 @@ _author: Elliot Phua_
 
 [60.006 Spatial Design Studio](https://dai.sutd.edu.sg/courses/60006-spatial-design-studio/)
 
+<br>
+
+[01.116 AI For Healthcare](https://istd.sutd.edu.sg/undergraduate/courses/01116-ai-for-healthcare)\
+[01.117 Brain-Inspired Computing and its Applications](https://istd.sutd.edu.sg/undergraduate/courses/01117-brain-inspired-computing-and-its-applications)\
+[60.007 Interaction Design for Cyber-Physical Artifacts](https://dai.sutd.edu.sg/courses/60007-interaction-design-for-cyber-physical-artifacts/)
