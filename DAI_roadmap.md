@@ -58,7 +58,7 @@ _author: Elliot Phua_
     Elective
     Elective
     HASS
-    
+
 <br>
 
 ## <span id="csd-minor">Computer Science Minor</span>
@@ -67,19 +67,19 @@ _author: Elliot Phua_
 
 ## <span id="modules-index">Modules Index</span>
 
-[50.004 Algorithms](https://dai.sutd.edu.sg/courses/50004-algorithms/)
-[60.002 AI applications in Design](https://dai.sutd.edu.sg/courses/60002-ai-applications-in-design/)
+[50.004 Algorithms](https://dai.sutd.edu.sg/courses/50004-algorithms/)\
+[60.002 AI applications in Design](https://dai.sutd.edu.sg/courses/60002-ai-applications-in-design/)\
 [60.003 Product Design Studio](https://dai.sutd.edu.sg/courses/60003-product-design-studio/)
 
 <br>
 
-[50.007 Machine Learning](https://istd.sutd.edu.sg/undergraduate/courses/50007-machine-learning)
-[60.005 HCI and AI](https://dai.sutd.edu.sg/courses/60005-hci-and-ai/)
+[50.007 Machine Learning](https://istd.sutd.edu.sg/undergraduate/courses/50007-machine-learning)\
+[60.005 HCI and AI](https://dai.sutd.edu.sg/courses/60005-hci-and-ai/)\
 [60.004 Service Design Studio](https://dai.sutd.edu.sg/courses/60004-service-design-studio/)
 
 <br>
 
-[60.008 Systems Design Studio](https://dai.sutd.edu.sg/courses/60008-systems-design-studio/)
+[60.008 Systems Design Studio](https://dai.sutd.edu.sg/courses/60008-systems-design-studio/)\
 [60.001 Applied Deep Learning](https://dai.sutd.edu.sg/courses/60001-applied-deep-learning/)
 
 <br>
